@@ -57,19 +57,7 @@ Full-Stack Developer | MERN Stack | FastAPI | AI & Automation
 - Developing **SaaS products**
 - Improving **system design and backend architecture**
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HAMMAD123RAZA&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMMAD123RAZA&theme=tokyonight"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
